@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// 1. HTTP Request & Respone 와 관련된 기본 설정
+// 1. HTTP Request & Response 와 관련된 기본 설정
 const config = {
     baseUrl: 'https://api.hnpwa.com/v0/',
 };
